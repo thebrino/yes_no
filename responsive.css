@@ -1,0 +1,22 @@
+@media (max-width: 425px) {
+  html {
+    font-size: 65;
+  }
+
+  .question {
+    width: 300px;
+  }
+
+  .yes-btn,
+  .s_hover {
+    width: 75px;
+  }
+
+  #no-btn {
+    width: 75px;
+  }
+
+  .img-logo {
+    width: 100px;
+  }
+}
